@@ -1,0 +1,25 @@
+_repo: John-Baring-s-House_56416
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Singmaster, Elsie
+    aliases:
+    - Lewars, Harold, Mrs.
+    - Lewars, Mrs. Harold
+    birthdate: 1879
+    deathdate: 1958
+    gutenberg_agent_id: '40794'
+    url: http://www.gutenberg.org/2009/agents/40794
+description: ''
+gutenberg_issued: '2018-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56416'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: John Baring's House
+url: http://www.gutenberg.org/ebooks/56416
